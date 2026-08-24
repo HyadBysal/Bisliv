@@ -21,7 +21,7 @@
   display: inline-block;
 }
 .hero-area .section-title .text-highlight {
-  color: var(--action);
+  color: #f44142;
 }
 
 /* Hero big-text: a continuous marquee cycling "Builder . Interior . Solar ."
